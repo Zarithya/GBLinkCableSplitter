@@ -7,8 +7,8 @@ For a full sixteen player game, you will need:
 - 29 link cables
 
 ## Videos:
-[How I Fixed the Legendary 16-Player Game Boy Game](https://www.youtube.com/watch?v=d9dVVRv70aA)
-[My 2 Year Journey to Solve the 30-Year Myth of Faceball 2000 | SSFF](https://www.youtube.com/watch?v=y2AG-gAuS-U)
+[How I Fixed the Legendary 16-Player Game Boy Game](https://www.youtube.com/watch?v=d9dVVRv70aA)    
+[My 2 Year Journey to Solve the 30-Year Myth of Faceball 2000 | SSFF](https://www.youtube.com/watch?v=y2AG-gAuS-U)    
 
 ### Credits:
 - Alex Bahr: PCB design, electrical engineering expertise, and creating all previous adapters
